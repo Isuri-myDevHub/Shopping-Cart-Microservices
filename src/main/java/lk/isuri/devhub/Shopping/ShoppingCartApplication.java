@@ -1,4 +1,4 @@
-package lk.isuri.devhub.Shopping.Cart;
+package lk.isuri.devhub.Shopping;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

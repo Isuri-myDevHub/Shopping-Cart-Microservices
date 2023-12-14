@@ -1,4 +1,4 @@
-package lk.isuri.devhub.Shopping.Cart;
+package lk.isuri.devhub.Shopping;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
